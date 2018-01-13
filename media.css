@@ -1,0 +1,12 @@
+@media (max-width: 767px) { 
+.r{font-size: 15pt;text-align: center;color: white;}
+    .process_text{font-size: 15pt;letter-spacing: 2;text-align: center;}
+    .white_box{min-height: 1300px;}
+}
+@media (min-width: 768px) and (max-width: 991px) { 
+.white_box{min-height: 500px;}
+}
+@media (min-width: 992px) and (max-width: 1199px) { 
+.white_box{min-height: 500px;}
+}
+@media (min-width: 1200px) { ... }

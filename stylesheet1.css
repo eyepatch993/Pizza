@@ -1,0 +1,39 @@
+.fullwidth{
+    width: 100%;
+}
+.no_pad{
+    padding-left: 0;
+    padding-right: 0;
+}
+.no_mar{
+    margin-left: 0;
+    margin-right: 0;
+}
+.header{min-height: 165px;background-color: #eaeaea;}
+.fa{border: none;border-radius: 100px;padding: 5px;color: grey;}
+.no_bord{border: none;}
+.logo{padding-top: 15%;}
+.navb{padding-top: 2%;}
+.menu{padding-top: 3%;}
+.slider{min-height: 600px; background-image: url(intro_bg.jpg);background-repeat: no-repeat;background-size: cover;background-position: center;color: white;}
+.menu ul li a{padding: 0 6px;}
+.introbutton{padding: 2% 4%;background-color: transparent;margin-top: 2%;}
+.intro_text{padding-top: 10%;}
+.intro_text p{font-size: 17pt;padding-top: 2%;}
+.process{min-height: 850px;background-color: #eaeaea;}
+.process_text{font-size: 30pt;letter-spacing: 2;text-align: center;}
+.orna{padding-top: 2%;}
+.progress_texting{text-align: center;}
+.pt2{padding-top: 2%;color: darkred;letter-spacing: 2;}
+.white_box{min-height: 400px;background-color: white;margin-top:3%;padding-top: 1.5%;}
+.progress_item{display: block;margin: 0 auto;}
+.pxe{text-align: left;font-size: 20pt;letter-spacing: 1;padding: 10%;}
+.crButton{display: block;margin: 0 auto;padding-top: 2%;}
+.redpart{min-height: 600px;background-image: url(bg_red.jpg);background-repeat: no-repeat;background-size: cover;background-position: center;}
+.r{font-size: 30pt;text-align: center;color: white;}
+.r2{color: white;text-align: center;}
+.vio{padding-top: 5%;}
+.shada_box{min-height: 300px;background-color: white;margin-top: 15%;}
+.majhkhane_thaak{display: block;margin: 0 auto;padding-top: 15%;}
+.laalbutton{background-color: red;color: white;border: none;padding: 2% 4%;text-align: center;margin:15% 7%;}
+.footer{min-height: 100px;text-align: center;padding-top: 2%;}
